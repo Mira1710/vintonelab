@@ -1,0 +1,35 @@
+@media only screen and (min-device-width: 360px) and (max-device-width: 998px){
+    .main-container{
+        flex-direction: column;
+    }
+    .model1 img, .model2 img, .model3 img, .model4 img, .model5 img {
+        width: 100vw;
+        height: auto;
+    }
+    .description, .model-img{
+        flex-direction: column;
+    }
+
+    .p-descrpt{
+        width: 100%;
+        height: auto;
+        font-size: 1vw;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
